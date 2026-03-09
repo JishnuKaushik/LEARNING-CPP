@@ -3,7 +3,7 @@
 // iostream is one of the most commonly used cpp headerfile.
 using namespace std;
 
-int main()
+int main() //returntype int function main 
 {// prints hello world in c+
     cout << "Hello world in cpp";
 return 0;
