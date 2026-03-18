@@ -6,5 +6,5 @@ int main(){
     cout<<j+k<<endl;    
     cout<<j-k<<endl;
     cout<<j*k<<endl;
-    cout<<j/k<<endl;    
+    cout<<j/k<<endl;
 }
